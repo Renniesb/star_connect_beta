@@ -1,9 +1,5 @@
 {
     "extends": "tslint-ionic-rules",
     "rules" : {
-    "parserOptions": {
-        "sourceType": "module"
-	}
-
     }
 }
